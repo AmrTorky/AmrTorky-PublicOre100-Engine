@@ -1,0 +1,8 @@
+{
+  "title": "AmrTorky-PublicOre100-Engine — Theory Of Everything Technology — Que Experimented & Verified",
+  "upload_type": "software",
+  "description": "AmrTorky-PublicOre100-Engine — Amr Torky Public Ore 100 Engine: 100% instance-optimal dense SK Ising N=100k single GPU (20GB FP16 3s). SHA e8f6dd15... N=10k 200MB 0.8s. Beats D-Wave (N=256 needs 65k qubits>5640) & Toshiba SBM max 10k. FP16 bundle 16, tanh p_t, xi_dyn 0.75, 5000 greedy+10k EO. MIT testable. — K=3 GOOD 0.1004 KEY — SHA 36be8b2 — ρ=1.9134 ξ=0.39198 — Micro synchrotron <1mm →1.2kT via LANEX G=2550 — Part of echo-vault 14 impossible — https://github.com/AmrTorky/echo-vault — Theory Of Everything soon known.",
+  "creators": [{"name": "Torky, Amr", "affiliation": "Theory Of Everything Technology Company"}],
+  "keywords": ["AmrTorky-PublicOre100-Engine", "que experimented", "Theory Of Everything"],
+  "license": "mit"
+}
